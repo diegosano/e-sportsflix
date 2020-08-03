@@ -16,8 +16,8 @@ ReactDOM.render(
       <Route component={Home} />
     </Switch>
   </BrowserRouter>,
-  /*<React.StrictMode>
+  /* <React.StrictMode>
     <App />
-  </React.StrictMode>,*/
-  document.getElementById('root')
+  </React.StrictMode>, */
+  document.getElementById('root'),
 );

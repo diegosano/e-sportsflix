@@ -1,0 +1,173 @@
+{
+  "categorias": [
+    {
+      "titulo": "League of Legends",
+      "link": "#",
+      "cor": "#703d57 ",
+      "videos": [
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos | Flamengo Esports x INTZ",
+          "url": "https://www.youtube.com/watch?v=CK_5eL_nr7U"
+        },
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos | Vivo Keyd x KABUM E-SPORTS",
+          "url": "https://www.youtube.com/watch?v=AR9QVMLIZRk"
+        },
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos | Prodigy Esports x FURIA",
+          "url": "https://www.youtube.com/watch?v=bA5WhFQjiWY"
+        },
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos | KABUM E-SPORTS x Prodigy",
+          "url": "https://www.youtube.com/watch?v=ltthKJTHvM8"
+        },
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos | Flamengo Esports x paiN Gaming",
+          "url": "https://www.youtube.com/watch?v=OOgnvCpSGg4"
+        },
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos | INTZ x FURIA",
+          "url": "https://www.youtube.com/watch?v=ffRSpiD_jEc"
+        },
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos | Vivo Keyd x Santos HotForex",
+          "url": "https://www.youtube.com/watch?v=3tzl30bSpZk"
+        },
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos | Prodigy Esports x paiN Gaming",
+          "url": "https://www.youtube.com/watch?v=fUaVLnnLf5U"
+        }        
+      ]
+    },
+    {
+      "titulo": "Valorant",
+      "cor": "#e85f5c",
+      "videos": [
+        {
+          "titulo": "T1 vs Homeless Highlights (PAX Valorant Invitational Esports Tournament)",
+          "url": "https://www.youtube.com/watch?v=r2bTaGVa9aE"
+        },
+        {
+          "titulo": "Gen.G vs Sentinels Highlights (PAX Valorant Invitational Esports Tournament)",
+          "url": "https://www.youtube.com/watch?v=tDnDI7yRWDE"
+        },
+        {
+          "titulo": "Gen.G vs Sentinels Highlights (PAX Valorant Invitational Esports Tournament)",
+          "url": "https://www.youtube.com/watch?v=PtDK-qyC_as"
+        },
+        {
+          "titulo": "Envy vs TSM Highlights (PAX Valorant Invitational Esports Tournament)",
+          "url": "https://www.youtube.com/watch?v=eiUfQA2OzHg"
+        }, 
+        {
+          "titulo": "Fish123 vs Ninjas in Pyjamas Highlights (Valorant Esports Weplay Tournament)",
+          "url": "https://www.youtube.com/watch?v=2LfYI7E6fXI"
+        }
+      ]
+    },
+    {
+      "titulo": "CS Global Offensive",
+      "cor": "#2e2d4d",
+      "videos": [
+        {
+          "titulo": "CS:GO - Ninjas in Pyjamas vs. Heretics [Vertigo] Map 3 - ESL One:Road to Rio",
+          "url": "https://www.youtube.com/watch?v=9aqvguzTBnM"
+        },
+        {
+          "titulo": "CS:GO - Astralis vs. G2 Esports [Vertigo] Map 2 - ESL One: Road to Rio",
+          "url": "https://www.youtube.com/watch?v=IYaHSuxjf7g"
+        },
+        {
+          "titulo": "CS:GO - Astralis vs. G2 Esports [Nuke] Map 1 - ESL One: Road to Rio",
+          "url": "https://www.youtube.com/watch?v=dvrPkRzanXE"
+        },
+        {
+          "titulo": "CS:GO - Virtus.pro vs. Hard Legion [Dust2] Map 3 - ESL One:Road to Rio",
+          "url": "https://www.youtube.com/watch?v=fJ3lhfHtih0"
+        },
+        {
+          "titulo": "CS:GO - Virtus.pro vs. Hard Legion [Overpass] Map 2 - ESL One:Road to Rio",
+          "url": "https://www.youtube.com/watch?v=f8oPt9i-Bx4"
+        },
+        {
+          "titulo": "CS:GO- Virtus.pro vs. Hard Legion [Inferno] Map 1 - ESL One:Road to Rio",
+          "url": "https://www.youtube.com/watch?v=uGaEIeX17Zg"
+        }
+      ]
+    },
+    {
+      "titulo": "Teamfight Tactics",
+      "cor": "#b7b5e4",
+      "videos": [
+        {
+          "titulo": "All-Star - Dia 1 | Competição das Lendas do TFT",
+          "url": "https://www.youtube.com/watch?v=mPf3oAaVlxU"
+        },
+        {
+          "titulo": "All-Star - Dia 2 | Competição das Lendas do TFT",
+          "url": "https://www.youtube.com/watch?v=g7-92UDf7p4"
+        },
+        {
+          "titulo": "All-Star - Dia 3 | Final da Competição das Lendas do TFT",
+          "url": "https://www.youtube.com/watch?v=DworPmAIuoU"
+        },
+        {
+          "titulo": "TFT GALAXIES: $150,000 TOURNAMENT 🏆 | Teamfight Tactics",
+          "url": "https://www.youtube.com/watch?v=_jvPq7EaMFg"
+        },
+        {
+          "titulo": "TFT GALAXIES DAY 2 FINALS: $150,000 TOURNAMENT",
+          "url": "https://www.youtube.com/watch?v=P6SOFiP5keY"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#4056f4",
+      "videos": [
+        {
+          "titulo": "FNCS Invitational - FINAIS - Dia 1",
+          "url": "https://www.youtube.com/watch?v=EfHikcfOOd8"
+        },
+        {
+          "titulo": "FNCS Invitational - FINAIS - Dia 2",
+          "url": "https://www.youtube.com/watch?v=yeVbanv0oTU"
+        },
+        {
+          "titulo": "FNCS Invitational - REPESCAGEM",
+          "url": "https://www.youtube.com/watch?v=te2bqcTRXhs"
+        },
+        {
+          "titulo": "FNCS Invitational - REPESCAGEM",
+          "url": "https://www.youtube.com/watch?v=PZZciYDcRq8"
+        }
+      ]
+    },
+    {
+      "titulo": "Overwatch ",
+      "cor": "#0b5d1e",
+      "videos": [
+        {
+          "titulo": "Akshon Highlights | Toronto Defiant vs Philadelphia Fusion | Week 25 | NA Day 3",
+          "url": "https://www.youtube.com/watch?v=d3p6V5La0_Y"
+        },
+        {
+          "titulo": "Akshon Highlights | Los Angeles Gladiators vs Paris Eternal | Week 25 | NA Day 3",
+          "url": "https://www.youtube.com/watch?v=Fiz8YghZ1T8"
+        },
+        {
+          "titulo": "Akshon Highlights | Shanghai Dragons vs Seoul Dynasty | Week 25 | APAC Day 2",
+          "url": "https://www.youtube.com/watch?v=_aaONX2AWt4"
+        },
+        {
+          "titulo": "Akshon Highlights | Philadelphia Fusion vs Los Angeles Gladiators | Week 25 | NA Day 2",
+          "url": "https://www.youtube.com/watch?v=NdgGbW_Is0s"
+        },
+        {
+          "titulo": "Akshon Highlights | Chengdu Hunters vs Hangzhou Spark | Week 25 | APAC Day 2",
+          "url": "https://www.youtube.com/watch?v=oFZ3qfkzOXc"
+        }
+      ]
+    }
+  ]
+}
