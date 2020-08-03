@@ -43,6 +43,17 @@ function CadastroCategoria() {
           }
           throw new Error('Não foi possível pegar os dados');
         });
+    } else {
+      const URL = 'https://e-sportsflix.herokuapp.com/categorias';
+      fetch(URL)
+        .then(async (respostaDoServer) => {
+          if (respostaDoServer.ok) {
+            const resposta = await respostaDoServer.json();
+            setCategorias(resposta);
+            return;
+          }
+          throw new Error('Não foi possível pegar os dados');
+        });
     }
   }, []);
 
